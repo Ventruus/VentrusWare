@@ -31,7 +31,7 @@ local Tab = Window:CreateTab("VentrusWare | by VentrusScripts", 4483362458) -- T
 local Button = Tab:CreateButton({
    Name = "Load Lock",
    Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialScripting/lock/main/lock", true))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Ventruus/VentrusWare/main/Lock%3F", true))()
 })
 
 local Button = Tab:CreateButton({
