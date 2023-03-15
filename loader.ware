@@ -37,5 +37,5 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "Load Keyboard (Recommended for Mobile Players)",
    Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialScripting/keyboardscript/main/luar", true))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Ventruus/VentrusWare/main/Lock%3F", true))()
 })
